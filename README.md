@@ -1,8 +1,8 @@
 - 👋 Hi there,
-- 🔭 I am currently pursuing a master degree in Computer Science and a PhD degree in Mechanical and Industrial Engineering.
+- 📙 I am currently pursuing a master degree in Computer Science and a PhD degree in Mechanical and Industrial Engineering.
 - 🔬 My research includes disease diagnosis and identification. I am also working as Research Assistant and Teaching Assistant.
 - 👀 I am familar with modern web backend frameworks: express(nodejs), spring MVC, Mybatis, Shiro. I have experience with building web frontend with Angular. I also have experience with the machine learning models, cloud computing and data-intensive application tools: Apache Spark, Storm, Hadoop, AWS, Docker and Kubernetes.
-- 💞️ I am looking for a DS/SDE internship for summer 2023
+- 👁️ I am looking for a DS/SDE internship for summer 2023
 
 
 <!---
