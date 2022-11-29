@@ -1,7 +1,7 @@
 - 👋 Hi there,
 - 🔭 I am currently pursuing a PhD degree in Mechanical and Industrial Engineering and a master degree in Computer Science.
-- 🔬 My research includes disease diagnosis and idenfication with computer vision tools. I am also working as Teaching Assistant and Rearch Assistant.
-- 👀 I am familar with modern web backend frameworks: express(nodejs), spring MVC, Mybatis, Shiro. I have experience with building web frontend with Angular.
+- 🔬 My research includes disease diagnosis and identification with computer vision tools. I am also working as Research Assistant and Teaching Assistant.
+- 👀 I am familar with modern web backend frameworks: express(nodejs), spring MVC, Mybatis, Shiro. I have experience with building web frontend with Angular. I have experience with the machine learning models, cloud computing and data-intensive application tools: Apache Spark, Storm, Hadoop, Docker and Kubernetes.
 - 💞️ I am looking for a DS/SDE internship for summer 2023
 
 <!---
